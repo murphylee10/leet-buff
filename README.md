@@ -1,1 +1,1 @@
-# leetcode-journal
+# leetcode-project
