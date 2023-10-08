@@ -11,19 +11,12 @@
     "storage",
     "tabs"
   ],
-  "host_permissions": ["https://chat.openai.com/*"],
+  "host_permissions": ["https://leetcode.com/*"],
   "action": {
     "default_popup": "index.html"
   },
   "background": {
     "service_worker": "service_worker.ts",
     "type": "module"
-  },
-  "content_scripts": [
-    {
-      "matches": ["https://chat.openai.com/*"],
-      "js": ["src/contentScript/main.tsx"],
-      "run_at": "document_end"
-    }
-  ]
+  }
 }
