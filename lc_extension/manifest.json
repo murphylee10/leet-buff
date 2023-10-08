@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "ChatGPT Extension",
+  "name": "LeetBuff",
   "version": "0.0.1",
-  "description": "Improve your ChatGPT experience with this extension! Bulk exports, bulk deletes, save prompts and more!",
+  "description": "Improve your Leetcode experience with this extension! klsdjflkds, sdklfjskd, lksdfjksdfj and more!",
   "permissions": [
     "activeTab",
     "cookies",
